@@ -1,4 +1,1 @@
-Bhuvana Bezawada first folder
-She is from India
-happy
-I am from Texas
+Bhuvana Bezawada first folder. She is from India.I am from Texas
